@@ -8,7 +8,10 @@ int main (){
 	cin >> berat;
 	
 	double ounce = 1/ton;
-	double beratton = berat*ounce;
+	double beratTon = berat*ounce;
+	
+	cout << beratTon<<endl;
+	
 	
 	
 }
